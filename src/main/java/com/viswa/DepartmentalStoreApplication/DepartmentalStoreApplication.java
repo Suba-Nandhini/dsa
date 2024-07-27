@@ -13,4 +13,4 @@ public class DepartmentalStoreApplication {
 		SpringApplication.run(DepartmentalStoreApplication.class, args);
 	}
 
-}
+}//mnj
